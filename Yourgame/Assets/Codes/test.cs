@@ -16,4 +16,6 @@ public class test : MonoBehaviour
         
     }
     //test text
+
+    // 프로그램이 너무 무거워요
 }
